@@ -2,6 +2,7 @@
 
 효과적인 동기부여 피트니스 어플리케이션<br/>
 [▶️ 1학기 구현 부분 demo video](https://www.youtube.com/watch?v=lEyoYJpFPHU)
+[▶️ 졸업 프로젝트 final video](https://youtu.be/gI5CDWbODE0)
 
 ## 1. Project Overview
 ### Background
